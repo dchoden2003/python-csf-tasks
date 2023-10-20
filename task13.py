@@ -1,0 +1,2 @@
+# print('hi')
+# the comment line will not be executed
